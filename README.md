@@ -1,16 +1,25 @@
-### Hi there 👋
+# 																	Hi There 👋 I'm Murat DANACI
 
-<!--
-**muratdanaci/muratdanaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+​																						**Junior C Developer**
 
-Here are some ideas to get you started:
+🏫 **42 Istanbul**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏫 **Bulent Ecevit University**
+
+🏫 **Anadolu University**
+
+
+
+## Certificates
+
+* [Introduction to Deep Learning](https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjo3OTg5MiwiY291cnNlLWlkIjo4OTI1MSwiY2VydC1pZCI6Ijk0NzIzIn0=)
+
+* [Introduction to Machine Learning](https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjo3OTg5MiwiY291cnNlLWlkIjo3NjU4NSwiY2VydC1pZCI6Ijc2ODM4In0=)
+* [Introduction to Information Technology](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=vpWc8WKYNE)
+
+- [Website Availability](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=4qguZXomNo)
+- [Becoming a Software Engineer From Scratch](https://www.udemy.com/certificate/UC-44949281-f9ff-4ccf-bb40-3a37865b3007/)
+
+## Contact Me
+
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fmuratdanaci0">	
