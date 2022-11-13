@@ -1,6 +1,6 @@
-# 																                            	Hi There 👋 I'm Murat DANACI
+# &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Hi There 👋 I'm Murat DANACI
 
-​																						**Junior C Developer**
+### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Junior C Developer
 
 🏫 **42 Istanbul**
 
