@@ -1,6 +1,5 @@
-# &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Hi There 👋 I'm Murat DANACI
-
-### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Junior C Developer
+<h1 align="center">Hi 👋, I'm Murat DANACI</h1>
+<h3 align="center">Junior C Developer</h3>
 
 🏫 **42 Istanbul**
 
@@ -21,5 +20,8 @@
 - [Becoming a Software Engineer From Scratch](https://www.udemy.com/certificate/UC-44949281-f9ff-4ccf-bb40-3a37865b3007/)
 
 ## Contact Me
-
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fmuratdanaci0)
+<p align="left">
+<a href="https://twitter.com/muratdanaci0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muratdanaci0" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muratdanaci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muratdanaci" height="30" width="40" /></a>
+<a href="https://instagram.com/muratdanaci1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muratdanaci1" height="30" width="40" /></a>
+</p>
