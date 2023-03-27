@@ -11,6 +11,10 @@
 
 ## Certificates
 
+* [Aygaz AI Literacy Bootcamp](https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjo3OTg5MiwiY291cnNlLWlkIjoxMTc4MzUsImNlcnQtaWQiOiIxMTc4NDIifQ==)
+
+* [Introduction to Python](https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjo3OTg5MiwiY291cnNlLWlkIjoxMTA1NDgsImNlcnQtaWQiOiIxMTA4OTEifQ==)
+
 * [First Step to AI](https://globalaihub.com/verify/?ref=product&certificate=eyJ1c2VyLWlkIjo3OTg5MiwiY291cnNlLWlkIjo1OTIwNSwiY2VydC1pZCI6IjczMDY1In0=)
 
 * [Introduction to Deep Learning](https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjo3OTg5MiwiY291cnNlLWlkIjo4OTI1MSwiY2VydC1pZCI6Ijk0NzIzIn0=)
