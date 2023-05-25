@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Murat DANACI</h1>
-<h3 align="center">Junior C Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 🏫 **42 Istanbul**
 
@@ -11,7 +11,11 @@
 
 ## Certificates
 
+* [Aygaz Python Bootcamp](https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjo3OTg5MiwiY291cnNlLWlkIjoxMTgxMDgsImNlcnQtaWQiOiIxMTgxMTYifQ==)
+
 * [Aygaz AI Literacy Bootcamp](https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjo3OTg5MiwiY291cnNlLWlkIjoxMTc4MzUsImNlcnQtaWQiOiIxMTc4NDIifQ==)
+
+* [Python for Machine Learning](https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjo3OTg5MiwiY291cnNlLWlkIjoxMTI4NjQsImNlcnQtaWQiOiIxMTMyNjMifQ==)
 
 * [Introduction to Python](https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjo3OTg5MiwiY291cnNlLWlkIjoxMTA1NDgsImNlcnQtaWQiOiIxMTA4OTEifQ==)
 
@@ -27,9 +31,10 @@
 
 * [Tech Talent](https://drive.google.com/file/d/1zdffNWzWVS6O1oV7JTu8cwhXM3cLsyrc/view?usp=sharing)
 
-- [Website Availability](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=4qguZXomNo)
+* [Website Availability](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=4qguZXomNo)
 
-- [Becoming a Software Engineer From Scratch](https://www.udemy.com/certificate/UC-44949281-f9ff-4ccf-bb40-3a37865b3007/)
+* [Becoming a Software Engineer From Scratch](https://www.udemy.com/certificate/UC-44949281-f9ff-4ccf-bb40-3a37865b3007/)
+
 
 ## Contact Me
 <p align="left">
