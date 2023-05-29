@@ -37,6 +37,8 @@
 
 * [Becoming a Software Engineer From Scratch](https://www.udemy.com/certificate/UC-44949281-f9ff-4ccf-bb40-3a37865b3007/)
 
+*<a href="https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjo3OTg5MiwiY291cnNlLWlkIjoxMTgyNDQsImNlcnQtaWQiOiIxMTgyNDgifQ==" target="_blank">Akbank Data Analysis Bootcamp</a>
+
 
 ## Contact Me
 <p align="left">
