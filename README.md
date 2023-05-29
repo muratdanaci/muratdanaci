@@ -11,6 +11,8 @@
 
 ## Certificates
 
+* [Akbank Data Analysis Bootcamp](https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjo3OTg5MiwiY291cnNlLWlkIjoxMTgyNDQsImNlcnQtaWQiOiIxMTgyNDgifQ==)
+
 * [Aygaz Python Bootcamp](https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjo3OTg5MiwiY291cnNlLWlkIjoxMTgxMDgsImNlcnQtaWQiOiIxMTgxMTYifQ==)
 
 * [Aygaz AI Literacy Bootcamp](https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjo3OTg5MiwiY291cnNlLWlkIjoxMTc4MzUsImNlcnQtaWQiOiIxMTc4NDIifQ==)
