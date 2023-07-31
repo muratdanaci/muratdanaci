@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Murat DANACI</h1>
+
+![img](https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67)
 <h3 align="center">Software Developer</h3>
+
 
 🏫 **42 Istanbul**
 
@@ -7,9 +10,15 @@
 
 🏫 **Anadolu University**
 
+![img](https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67)
 
 
-## Certificates
+<br>
+
+<h3>Certificates</h3>
+
+
+![img](https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67)
 
 * [Akbank Data Analysis Bootcamp](https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjo3OTg5MiwiY291cnNlLWlkIjoxMTgyNDQsImNlcnQtaWQiOiIxMTgyNDgifQ==)
 
@@ -38,8 +47,22 @@
 * [Becoming a Software Engineer From Scratch](https://www.udemy.com/certificate/UC-44949281-f9ff-4ccf-bb40-3a37865b3007/)
 
 
+<details>
+	<summary><b><h4>Programming Languages :computer: </h4></b></summary>
+<br>
 
-<h2 align="center">Contact Me</h2>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+</details>
+
+
+<h3 align="center">Contact Me</h3>
+
+![img](https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67)
+
 <p align="center">
 <a href="https://twitter.com/muratdanaci0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muratdanaci0" height="30" width="40" /></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/muratdanaci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muratdanaci" height="30" width="40" /></a>&nbsp;&nbsp;
