@@ -70,6 +70,11 @@
 </p>
 
 <div align="center">
+	
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=muratdanaci)
+</div>
+
+<div align="center">
+
 [![wakatime](https://wakatime.com/badge/user/e5f2fef0-1b76-45c2-b6da-b5845ee40d32.svg)](https://wakatime.com/@e5f2fef0-1b76-45c2-b6da-b5845ee40d32)
 </div>
