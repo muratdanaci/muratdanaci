@@ -20,6 +20,7 @@
 
 ![img](https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67)
 
+
 * [Akbank Data Analysis Bootcamp](https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjo3OTg5MiwiY291cnNlLWlkIjoxMTgyNDQsImNlcnQtaWQiOiIxMTgyNDgifQ==)
 
 * [Aygaz Python Bootcamp](https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjo3OTg5MiwiY291cnNlLWlkIjoxMTgxMDgsImNlcnQtaWQiOiIxMTgxMTYifQ==)
@@ -75,6 +76,9 @@
 <br>
 
 <div align="center">
+
+![muratdanaci's Stats](https://github-readme-stats.vercel.app/api?username=muratdanaci&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<br>
 	
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=muratdanaci)
 </div>
