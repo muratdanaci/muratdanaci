@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Murat DANACI</h1>
 
-![img](https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67)
-
 <h3 align="center">👨🏻‍💻 Front-End Developer 👨🏻‍💻</h3>
 
 
@@ -11,15 +9,11 @@
 
 :school: **Anadolu University**
 
-![img](https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67)
-
 
 <br>
 
 <h3>Certificates :man_student:</h3>
 
-
-![img](https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67)
 
 
 :trophy: [Akbank Data Analysis Bootcamp](https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjo3OTg5MiwiY291cnNlLWlkIjoxMTgyNDQsImNlcnQtaWQiOiIxMTgyNDgifQ==)
@@ -68,7 +62,6 @@
 
 <h3 align="center">Contact Me</h3>
 
-![img](https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67)
 
 <p align="center">
 <a href="https://twitter.com/muratdanaci0" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muratdanaci0" height="30" width="40" /></a>&nbsp;&nbsp;
