@@ -43,8 +43,7 @@
 :trophy: [Becoming a Software Engineer From Scratch](https://www.udemy.com/certificate/UC-44949281-f9ff-4ccf-bb40-3a37865b3007/)
 
 
-<details>
-	<summary><b><h4>Programming Languages :computer: </h4></b></summary>
+<details><summary><b><h4>Programming Languages :computer: </h4></b></summary>
 <br>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
