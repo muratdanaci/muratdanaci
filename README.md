@@ -12,6 +12,16 @@
 
 <br>
 
+<h3>My Projects 🌐</h3>
+
+🌐 [Yeni Bir Araç](https://www.yenibirarac.com/)
+<br>
+🌐 [Mavikoy Beach Resort (Team Project)](https://www.mavikoybeachresort.com.tr/)
+<br>
+🌐 [Emse Pompa (Team Project - Backend)](https://www.emsepompa.com.tr/)
+
+
+<br>
 <h3>Certificates :man_student:</h3>
 
 
@@ -46,14 +56,16 @@
 <details><summary><b>Programming Languages :computer: </b></summary>
 <br>
 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+<br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+
+
 </details>
 
 <br>
