@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Murat DANACI</h1>
 
-<h3 align="center">👨🏻‍💻 Front-End Developer 👨🏻‍💻</h3>
+<h3 align="center">👨🏻‍💻 Junior Full Stack Developer 👨🏻‍💻</h3>
 
 
 :school: **42 Istanbul**
