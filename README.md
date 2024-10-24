@@ -55,31 +55,59 @@
 :trophy: [Becoming a Software Engineer From Scratch](https://www.udemy.com/certificate/UC-44949281-f9ff-4ccf-bb40-3a37865b3007/)
 
 <br> <br>
-<details><summary><b>Programming Languages :computer: </b></summary>
+
+<details><summary><h3>Software & Tools</h3></summary>
 <br>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=wordpress,git,vscode,postman,stackoverflow,ps,figma" />
+  </a>
+</p>
+</details>
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+<details><summary><h3>Programming Language </h3></summary>
 <br>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,c" />
+  </a>
+</p>
+</details>
 
 
+<details><summary><h3>Framework </h3></summary>
+<br>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,laravel" />
+  </a>
+</p>
+</details>
+
+<details><summary><h3>Database </h3></summary>
+<br>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+</p>
 </details>
 
 <br>
 <br>
 
-<h3 align="center">Contact Me</h3>
+<h2 align="center">Contact Me</h2>
 
-
-<p align="center">
-<a href="https://twitter.com/muratdanaci0" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muratdanaci0" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/muratdanaci" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muratdanaci" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://instagram.com/muratdanaci1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muratdanaci1" height="30" width="40" /></a><br><br><br>
+<p align="center" >
+  <a href="https://linkedin.com/in/muratdanaci" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a text-decoration= "none" href="https://twitter.com/muratdanaci0" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="mailto:muratdanaci8@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
 <br>
 <br>
