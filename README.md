@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Murat DANACI</h1>
 
-<h3 align="center">👨🏻‍💻 Junior Full Stack Developer 👨🏻‍💻</h3>
+<div align="center">
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=6000&pause=1500&center=true&vCenter=true&width=435&lines=Hello+%F0%9F%91%8B%2C+I'm+Murat+DANACI;I+am+a+Full+Stack+Developer%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+</div>
+<hr>
 
 
 :school: **42 Istanbul**
