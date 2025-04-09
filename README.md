@@ -21,6 +21,8 @@
 🌐 [Mavikoy Beach Resort (Team Project)](https://www.mavikoybeachresort.com.tr/)
 <br>
 🌐 [Emse Pompa (Team Project - Backend)](https://www.emsepompa.com.tr/)
+<br>
+🌐 [Vesentur (Team Project - Full Stack)](https://www.vesentur.com/)
 
 
 <br>
